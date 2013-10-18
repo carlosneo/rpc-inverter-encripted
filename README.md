@@ -1,0 +1,1 @@
+A .c program that inverts a String using a RPC (remote procedure call), using rpcgen. This program has implemented a encripted message. The encriptes the message before sending to the server. The server knows the encription and decrept the message when its recived.
